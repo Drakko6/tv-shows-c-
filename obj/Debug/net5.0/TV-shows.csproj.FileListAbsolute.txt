@@ -1,0 +1,16 @@
+C:\Users\drago\source\repos\TV-shows\bin\Debug\net5.0\TV-shows.exe
+C:\Users\drago\source\repos\TV-shows\bin\Debug\net5.0\TV-shows.deps.json
+C:\Users\drago\source\repos\TV-shows\bin\Debug\net5.0\TV-shows.runtimeconfig.json
+C:\Users\drago\source\repos\TV-shows\bin\Debug\net5.0\TV-shows.runtimeconfig.dev.json
+C:\Users\drago\source\repos\TV-shows\bin\Debug\net5.0\TV-shows.dll
+C:\Users\drago\source\repos\TV-shows\bin\Debug\net5.0\ref\TV-shows.dll
+C:\Users\drago\source\repos\TV-shows\bin\Debug\net5.0\TV-shows.pdb
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.AssemblyInfo.cs
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.dll
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\ref\TV-shows.dll
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.pdb
+C:\Users\drago\source\repos\TV-shows\obj\Debug\net5.0\TV-shows.genruntimeconfig.cache
